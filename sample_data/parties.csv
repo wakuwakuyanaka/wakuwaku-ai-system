@@ -1,0 +1,12 @@
+party_id,party_type,name,name_local,country_code,city,language,currency,source,tier,interests,owner_staff,terms,consignment_rate,marketing_opt_in,opt_in_date,status,next_follow_up
+CUS-0001,COLLECTOR,山田 花子（架空）,,JP,東京,ja,JPY,EXHIBITION,REPEAT,だるま,staff1,,,TRUE,2025-06-10,ACTIVE,2026-12-01
+CUS-0002,COLLECTOR,陳 小明（架空）,陳小明,TW,台北,zh-TW,TWD,ART_FAIR,VIP,だるま;谷中,ai,,,TRUE,2025-11-20,ACTIVE,2026-11-20
+CUS-0003,COLLECTOR,Emma Martin（架空）,,FR,Paris,fr,EUR,SNS,PROSPECT,抽象,staff1,,,FALSE,,ACTIVE,
+ORG-0001,GALLERY,サンプル画廊 台北（架空）,樣本畫廊,TW,台北,zh-TW,TWD,PRODUCER,VIP,,ai,月末締め翌月20日払い,0.40,TRUE,2025-05-01,ACTIVE,2026-11-15
+ORG-0002,RETAILER,谷中サンプル雑貨店（架空）,,JP,東京,ja,JPY,REFERRAL,REPEAT,グッズ,staff1,掛率60% 月末締め翌月末払い,,TRUE,2025-03-01,ACTIVE,2026-11-30
+ORG-0003,COLLAB_PARTNER,株式会社ABCサンプル（架空）,,JP,東京,ja,JPY,PRODUCER,REGULAR,,ai,ロイヤリティ5%,,TRUE,2026-01-15,ACTIVE,2026-11-12
+ORG-0021,GALLERY,Galerie Exemple（架空）,Galerie Exemple,FR,Paris,fr,EUR,PRODUCER,PROSPECT,,ai,,0.50,FALSE,,ACTIVE,2026-11-18
+ORG-0022,GALLERY,Sample Art Space NY（架空）,,US,New York,en,USD,ART_FAIR,PROSPECT,,staff1,,,FALSE,,ACTIVE,2026-12-05
+SUP-0001,SUPPLIER,サンプル張子工房（架空）,,JP,埼玉,ja,JPY,REFERRAL,,,staff1,月末締め翌月末払い,,FALSE,,ACTIVE,
+SUP-0002,SUPPLIER,サンプル印刷所（架空）,,JP,東京,ja,JPY,WEB,,,staff1,前払い,,FALSE,,ACTIVE,
+SUP-0003,SUPPLIER,サンプル縫製（架空）,,JP,大阪,ja,JPY,REFERRAL,,,staff1,,,FALSE,,ACTIVE,

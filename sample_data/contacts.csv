@@ -1,0 +1,6 @@
+contact_id,party_id,name,title,language,is_primary,notes
+CON-0001,ORG-0001,林 美玲（架空）,ディレクター,zh-TW,TRUE,日本語少し可
+CON-0002,ORG-0002,佐藤 一郎（架空）,店長,ja,TRUE,
+CON-0003,ORG-0003,鈴木 恵（架空）,企画部 課長,ja,TRUE,
+CON-0004,ORG-0021,Claire Dupont（架空）,Directrice,fr,TRUE,英語可
+CON-0005,ORG-0022,John Smith（架空）,Curator,en,TRUE,

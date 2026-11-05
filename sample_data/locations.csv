@@ -1,0 +1,9 @@
+location_code,name,location_type,is_own_asset,party_id,notes
+LOC-ATELIER,アトリエ（台東区）,OWN,TRUE,,
+LOC-STOCK,倉庫・保管場所,OWN,TRUE,,
+LOC-GAL-JP01,国内ギャラリーA（委託）,CONSIGNEE,TRUE,,
+LOC-GAL-TW01,台湾ギャラリー（委託）,CONSIGNEE,TRUE,ORG-0001,
+LOC-SHOP-JP01,谷中雑貨店（委託）,CONSIGNEE,TRUE,ORG-0002,
+LOC-EVENT,展示会場（一時）,TEMPORARY,TRUE,,
+LOC-TRANSIT,輸送中,TEMPORARY,TRUE,,
+LOC-COLLAB,コラボ先貸出,LOAN,TRUE,ORG-0003,

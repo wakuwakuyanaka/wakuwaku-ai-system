@@ -1,0 +1,3 @@
+consignment_id,party_id,location_code,start_date,end_date,commission_rate,settlement_cycle,contract_url,status
+CSG-2026-0004,ORG-0001,LOC-GAL-TW01,2025-09-25,2026-03-31,0.40,月末締め翌月20日,(Driveリンク),ACTIVE
+CSG-2026-0005,ORG-0002,LOC-SHOP-JP01,2026-04-01,2027-03-31,0.30,月末締め翌月末,(Driveリンク),ACTIVE

@@ -1,0 +1,6 @@
+sku,name_ja,name_en,category_code,source_artwork_id,collab_id,hs_code,origin_country,supplier_id,unit_cost_jpy,retail_price_jpy,wholesale_price_jpy,moq,reorder_point,sales_status,channels
+GD-DRM-MINI-RED,ミニだるま 赤,Mini Daruma Red,CAT-DARUMA,,,(要確認),JP,SUP-0001,800,3300,1980,10,20,ACTIVE,EC;WHOLESALE;EXHIBITION
+GD-DRM-MINI-GLD,ミニだるま 金,Mini Daruma Gold,CAT-DARUMA,,,(要確認),JP,SUP-0001,950,3850,2310,10,20,ACTIVE,EC;WHOLESALE;EXHIBITION
+GD-PRT-A4-ART0028,アートプリントA4 谷中の朝,Art Print A4 Morning in Yanaka,CAT-PRINT,ART-2025-0028,,(要確認),JP,SUP-0002,600,4400,2640,5,10,ACTIVE,EC;CONSIGNMENT
+GD-STN-PC-SET5,ポストカード5枚セット,Postcard Set of 5,CAT-STATIONERY,,,(要確認),JP,SUP-0002,250,1320,792,20,50,ACTIVE,EC;WHOLESALE;CONSIGNMENT;EXHIBITION
+CL-ABC-TOTE-BLK,コラボトートバッグ 黒,Collab Tote Bag Black,CAT-APPAREL,ART-2025-0031,COL-2026-001,(要確認),JP,SUP-0003,1200,4950,,0,0,PLANNING,EC

@@ -1,0 +1,6 @@
+expense_id,date,payee,account_code,cost_category,amount,currency,fx_rate,amount_jpy,link_type,link_id,payment_method,receipt_url,freee_deal_id,recorded_by
+EXP-2026-0201,2026-10-02,サンプル画材店（架空）,(freee科目に合わせる),画材,24200,JPY,1,24200,ART,ART-2026-0011,法人カード,(Driveリンク),,staff1
+EXP-2026-0202,2026-10-03,航空会社（架空）,旅費交通費,旅費交通費,68000,JPY,1,68000,EVT,EVT-2025-004,法人カード,(Driveリンク),,ai
+EXP-2026-0203,2026-10-04,台北会場（架空）,(freee科目に合わせる),出展料,30000,TWD,4.7,141000,EVT,EVT-2025-004,振込,(Driveリンク),,staff1
+EXP-2026-0204,2026-10-15,SUP-0001,(freee科目に合わせる),製造,40000,JPY,1,40000,SKU,GD-DRM-MINI-RED,振込,(Driveリンク),,staff1
+EXP-2026-0205,2026-10-18,配送業者（架空）,荷造運賃,梱包・送料,12000,JPY,1,12000,SAL,SAL-2026-0101,立替(staff2),(Driveリンク),,staff2

@@ -1,0 +1,6 @@
+deal_id,title,country_code,city,party_id,deal_type,stage,expected_amount,currency,probability,weighted_amount_jpy,source,owner_staff,opened_at,next_action,next_action_date,artwork_ids,lost_reason
+DEAL-2026-0010,台北ギャラリー 2027年個展,TW,台北,ORG-0001,EXHIBITION,NEGOTIATION,300000,TWD,0.75,1057500,PRODUCER,ai,2026-06-01,契約書ドラフト確認,2026-11-15,ART-2026-0005,
+DEAL-2026-0012,パリ・ギャラリー 取扱打診,FR,Paris,ORG-0021,GALLERY,MEETING,8000,EUR,0.25,330000,PRODUCER,ai,2026-09-10,仏語ポートフォリオ送付,2026-11-18,ART-2026-0011,
+DEAL-2026-0013,NY アートフェア出展検討,US,New York,ORG-0022,ART_FAIR,CONTACTED,15000,USD,0.10,225000,ART_FAIR,staff1,2026-10-01,出展条件の問い合わせ,2026-12-05,,
+DEAL-2026-0014,谷中雑貨店 冬季卸追加,JP,東京,ORG-0002,WHOLESALE,PROPOSAL,120000,JPY,0.50,60000,REFERRAL,staff1,2026-10-15,見積送付,2026-11-10,,
+DEAL-2026-0015,コラボ商品第2弾,JP,東京,ORG-0003,COLLAB,LEAD,500000,JPY,0.05,25000,PRODUCER,ai,2026-11-01,企画案作成,2026-11-25,,

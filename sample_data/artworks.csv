@@ -1,0 +1,8 @@
+artwork_id,title_ja,title_en,series_code,artwork_type,medium,year,height_cm,width_cm,depth_cm,edition,price_jpy,cost_jpy,status,location_code,owner,coa_issued,exhibition_ids,sale_id,tags
+ART-2025-0028,谷中の朝,Morning in Yanaka,SR-YANAKA,PAINTING,キャンバスに油彩,2025,45.5,38.0,,1/1,280000,18000,CONSIGNED,LOC-GAL-TW01,自社,FALSE,EVT-2025-004,,谷中;朝;街並み
+ART-2025-0031,夜明けのだるま,Daruma at Dawn,SR-DARUMA,DARUMA,張子にアクリル,2025,30.0,24.0,24.0,1/1,180000,9000,SOLD,CUSTOMER,CUS-0002,TRUE,EVT-2025-004,SAL-2026-0101,だるま;赤;縁起
+ART-2025-0035,招福だるま 金,Fortune Daruma Gold,SR-DARUMA,DARUMA,張子にアクリル・金箔,2025,45.0,36.0,36.0,1/1,350000,22000,ON_DISPLAY,LOC-EVENT,自社,FALSE,EVT-2026-002,,だるま;金;縁起
+ART-2026-0002,猫と路地,Cat in the Alley,SR-YANAKA,PAINTING,紙にアクリル,2026,33.3,24.2,,1/1,120000,6000,AVAILABLE,LOC-ATELIER,自社,FALSE,,,猫;谷中
+ART-2026-0005,赤い記憶,Red Memory,SR-ABSTRACT,MIXED,キャンバスにミクストメディア,2026,91.0,72.7,,1/1,650000,35000,RESERVED,LOC-ATELIER,自社,FALSE,,,抽象;赤
+ART-2026-0008,だるま行列（版画）,Daruma Parade (Print),SR-DARUMA,PRINT,シルクスクリーン,2026,42.0,29.7,,3/20,45000,4000,AVAILABLE,LOC-STOCK,自社,TRUE,,,だるま;版画
+ART-2026-0011,パリの空とだるま,Daruma under Paris Sky,SR-DARUMA,PAINTING,キャンバスに油彩,2026,60.6,50.0,,1/1,420000,24000,WIP,LOC-ATELIER,自社,FALSE,,,だるま;パリ;海外

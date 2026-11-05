@@ -1,0 +1,20 @@
+# 認証情報・秘密情報（絶対にコミットしない）
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+token*.json
+client_secret*.json
+.clasprc.json
+
+# 実データ（実データは Google Drive に保管）
+data/
+exports/
+*.xlsx
+
+# OS / エディタ
+.DS_Store
+.vscode/
+node_modules/
+__pycache__/

@@ -1,0 +1,4 @@
+event_id,title,event_type,country_code,city,venue,start_date,end_date,booth_fee,currency,status,notes
+EVT-2025-004,台北アートフェア出展（架空）,ART_FAIR,TW,台北,サンプル会場,2025-10-01,2025-10-06,30000,TWD,DONE,
+EVT-2026-001,谷中 個展（架空）,SOLO,JP,東京,サンプルギャラリー,2026-04-10,2026-04-20,0,JPY,DONE,
+EVT-2026-002,だるま展（架空）,GROUP,JP,東京,サンプル会場,2026-11-01,2026-11-15,50000,JPY,ONGOING,
